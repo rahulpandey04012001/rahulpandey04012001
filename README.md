@@ -3,7 +3,7 @@
 <h3 align="center">A Boy trying to Figure-Out stuff!!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulpandey04012001&label=Profile%20views&color=0e75b6&style=flat" alt="rahulpandey04012001" /> </p>
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif">
+<img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahulpandey04012001" alt="rahulpandey04012001" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/rahul_pandey_36" target="blank"><img src="https://img.shields.io/twitter/follow/rahul_pandey_36?logo=twitter&style=for-the-badge" alt="rahul_pandey_36" /></a> </p>
