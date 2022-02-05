@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/rahul_pandey_36" target="blank"><img src="https://img.shields.io/twitter/follow/rahul_pandey_36?logo=twitter&style=for-the-badge" alt="rahul_pandey_36" /></a> </p>
 
-- 🔭 I’m currently working on **OpenCv and Java**
+- 🔭 I’m currently working on **Java and Data Structures**
 
-- 🌱 I’m currently learning **JavaSript and OpenCv**
+- 🌱 I’m currently learning **JavaSript and Data Structures**
 
 - 👯 I’m looking to collaborate on **Front-end web development and back-end software development**
 
